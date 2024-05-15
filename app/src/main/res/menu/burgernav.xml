@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/tescapek"
+        android:title="TES1" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/menu_item2"
+        android:icon="@drawable/puki"
+        android:title="TES2" />
+    <item
+        android:id="@+id/menu_item3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/puki2"
+        android:title="TES3"/>
+    <!-- Add more items as needed -->
+</menu>
